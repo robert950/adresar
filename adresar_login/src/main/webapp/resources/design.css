@@ -1,0 +1,47 @@
+body{
+	background-color: #e0e0eb;
+	width:80%;
+	margin: 0 auto;
+}
+
+
+header{
+	margin:10px;
+}
+
+h2{
+	color:#000080;
+}
+
+
+label{
+	font-size:20px;
+	color:#0000e6;
+}
+
+input[type="button"], input[type="submit"], button{
+	background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+table{
+	padding:20px
+}
+
+select{
+	margin:10px;
+}
+
+input{
+	margin:10px;
+}
+
